@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBZ2BYVyqdUDm-1rwGIMLMPtJ04ivOY7h8',
+    apiKey: 'apiKey',
     appId: '1:713135664965:web:2ebe8f9a45689c351dd82c',
     messagingSenderId: '713135664965',
     projectId: 'pasthelwparking',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCqTzLUWWRNoAQYFE-9k6gZFbpHx4d9DXQ',
+    apiKey: 'apiKey',
     appId: '1:713135664965:android:2934f4c3550354951dd82c',
     messagingSenderId: '713135664965',
     projectId: 'pasthelwparking',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDsEhWCP8rPpH1YijG8jeH_BS4bty2_Jx4',
+    apiKey: 'apiKey',
     appId: '1:713135664965:ios:5d5842eb10aa86991dd82c',
     messagingSenderId: '713135664965',
     projectId: 'pasthelwparking',
